@@ -1,4 +1,5 @@
-<img align="left" src="https://user-images.githubusercontent.com/61736137/165254138-70830fcb-b25a-42b0-a8a4-b90678bcb2a2.svg" width="300"/>
+<img align="right" src="https://github.com/pakrheonkwon/Park_HeonKwon/assets/126491446/faa96bd5-8e04-4f83-a576-393db1e5d83a" width="200"/>
+
 <h1> 안녕하세요. 풀스택 개발자를 목표로 공부하는 박헌권 입니다. </h1>
 <p>
   <em>
