@@ -1,7 +1,7 @@
 
 
 <h1> 안녕하세요. 풀스택 개발자를 목표로 공부하는 박헌권 입니다. </h1>
-<img align="right" src="https://github.com/pakrheonkwon/Park_HeonKwon/assets/126491446/faa96bd5-8e04-4f83-a576-393db1e5d83a" width="100"/>
+<img align="right" src="https://github.com/pakrheonkwon/Park_HeonKwon/assets/126491446/faa96bd5-8e04-4f83-a576-393db1e5d83a" width="200"/>
 <p>
 
   <em>
